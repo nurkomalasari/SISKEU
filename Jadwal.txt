@@ -3,3 +3,6 @@ Jadwal harianku
 2. mandi
 3. Sholat
 4. berangkat kuliah
+5. belajar
+6. sholat
+7. istirahat
